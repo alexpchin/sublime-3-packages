@@ -1,0 +1,31 @@
+[
+    {
+        "caption": "Git Conflict Resolver: Find Next Conflict",
+        "command": "find_next_conflict"
+    },
+    {
+        "caption": "Git Conflict Resolver: Keep Theirs",
+        "command": "keep",
+        "args": {
+            "keep": "theirs"
+        }
+    },
+    {
+        "caption": "Git Conflict Resolver: Keep Ours",
+        "command": "keep",
+        "args": {
+            "keep": "ours"
+        }
+    },
+    {
+        "caption": "Git Conflict Resolver: Keep Common Ancestor",
+        "command": "keep",
+        "args": {
+            "keep": "ancestor"
+        }
+    },
+    {
+        "caption": "Git Conflict Resolver: Show Conflict Files",
+        "command": "list_conflict_files"
+    }
+]

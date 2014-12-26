@@ -1,0 +1,30 @@
+{
+	"installed_dependencies":
+	[
+		"0_package_control_loader",
+		"bz2"
+	],
+	"installed_packages":
+	[
+		"BracketHighlighter",
+		"CoffeeScript",
+		"DashDoc",
+		"Git",
+		"Git Conflict Resolver",
+		"GitGutter",
+		"Haml",
+		"HTML2Haml",
+		"JS2Coffee",
+		"Markdown Preview",
+		"Mou Markdown App (OSX)",
+		"Mou.app Markdown",
+		"Package Control",
+		"Ruby Slim",
+		"Sass",
+		"SassBeautify",
+		"SCSS",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"SublimeREPL"
+	]
+}
